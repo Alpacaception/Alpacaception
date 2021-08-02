@@ -1,1 +1,5 @@
-### Python very cool, all the homies hate JS
+## I primarily code in python
+
+# Things I also use:
+Heroku
+MongoDB
